@@ -1,5 +1,8 @@
 
 /* Your CSS Code here. */
+*{
+	box-sizing:border-box;
+}
 .holder {
   display: grid;
   grid-template-rows: repeat(2, 1fr); /* Two equal rows */
